@@ -1,3 +1,0 @@
-# Misiones
-
-Creando primera mision
